@@ -1,6 +1,6 @@
 {
   "name": "url-slug-match",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Convert a dot/underscore/space separated string to string with hyphen and lower case. Good for SEO.",
   "main": "index.js",
   "repository": {

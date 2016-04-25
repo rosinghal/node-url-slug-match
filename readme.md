@@ -18,11 +18,8 @@ const urlSlugMatch = require('url-slug-match');
 urlSlugMatch('foo_bar');
 //=> 'foo-bar'
 
-urlSlugMatch('foo0bar');
-//=> 'foo-bar'
-
-urlSlugMatch('Foo-Bar');
-//=> 'foo-bar'
+urlSlugMatch('8.Foo-Bar');
+//=> '8-foo-bar'
 
 urlSlugMatch('--foo.bar');
 //=> 'foo-bar'
