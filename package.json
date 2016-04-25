@@ -1,0 +1,26 @@
+{
+  "name": "url-slug-match",
+  "version": "1.0.0",
+  "description": "Convert a dot/underscore/space separated string to string with hyphen and lower case. Good for SEO.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rosinghal/node-url-slug-match.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "slug",
+    "seo",
+    "lowercase",
+    "convert"
+  ],
+  "author": {
+    "name": "Rohit Singhal",
+    "email": "rohitsinghal.rs@gmail.com",
+    "url": "https://www.xtendify.com"
+  },
+  "license": "MIT"
+}
